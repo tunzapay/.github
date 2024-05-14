@@ -1,6 +1,6 @@
 # Tunza Pay
 
-Welcome to the Tunza Pay GitHub organization! Tunza Pay is a web application built on a microservices architecture, utilizing API gateway, Docker, and Kubernetes. The goal is to provide a seamless platform for users to create contributions and facilitate payments through various methods. Currently, the application consists of core services such as Contribution Service, User Service, and Payment Service, but the aim is to expand gradually as the platform evolves.
+Welcome to the Tunza Pay organization! Tunza Pay is a web application built on a microservices architecture, utilizing API gateway, Docker, and Kubernetes. The goal is to provide a seamless platform for users to create contributions and facilitate payments through various methods. Currently, the application consists of core services such as Contribution Service, User Service, and Payment Service, but the aim is to expand gradually as the platform evolves.
 
 ## Getting Started
 
